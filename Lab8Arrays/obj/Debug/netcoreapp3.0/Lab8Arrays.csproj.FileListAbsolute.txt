@@ -1,0 +1,11 @@
+C:\Users\Tristan\Documents\BootCamp\Lab8Arrays\Lab8Arrays\bin\Debug\netcoreapp3.0\Lab8Arrays.exe
+C:\Users\Tristan\Documents\BootCamp\Lab8Arrays\Lab8Arrays\bin\Debug\netcoreapp3.0\Lab8Arrays.deps.json
+C:\Users\Tristan\Documents\BootCamp\Lab8Arrays\Lab8Arrays\bin\Debug\netcoreapp3.0\Lab8Arrays.runtimeconfig.json
+C:\Users\Tristan\Documents\BootCamp\Lab8Arrays\Lab8Arrays\bin\Debug\netcoreapp3.0\Lab8Arrays.runtimeconfig.dev.json
+C:\Users\Tristan\Documents\BootCamp\Lab8Arrays\Lab8Arrays\bin\Debug\netcoreapp3.0\Lab8Arrays.dll
+C:\Users\Tristan\Documents\BootCamp\Lab8Arrays\Lab8Arrays\bin\Debug\netcoreapp3.0\Lab8Arrays.pdb
+C:\Users\Tristan\Documents\BootCamp\Lab8Arrays\Lab8Arrays\obj\Debug\netcoreapp3.0\Lab8Arrays.csprojAssemblyReference.cache
+C:\Users\Tristan\Documents\BootCamp\Lab8Arrays\Lab8Arrays\obj\Debug\netcoreapp3.0\Lab8Arrays.AssemblyInfoInputs.cache
+C:\Users\Tristan\Documents\BootCamp\Lab8Arrays\Lab8Arrays\obj\Debug\netcoreapp3.0\Lab8Arrays.AssemblyInfo.cs
+C:\Users\Tristan\Documents\BootCamp\Lab8Arrays\Lab8Arrays\obj\Debug\netcoreapp3.0\Lab8Arrays.dll
+C:\Users\Tristan\Documents\BootCamp\Lab8Arrays\Lab8Arrays\obj\Debug\netcoreapp3.0\Lab8Arrays.pdb
